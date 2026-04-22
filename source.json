@@ -1,0 +1,14 @@
+{
+  "name": "Daniel's Apps",
+  "apps": [
+    {
+      "name": "Duolingo++",
+      "bundleIdentifier": "com.duolingo",
+      "developerName": "Daniel",
+      "version": "1.0",
+      "downloadURL": "https://github.com/167daniel/sidestore-apps/releases/download/ipa/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Duolingo_logo.svg/512px-Duolingo_logo.svg.png",
+      "description": "Modified Duolingo app"
+    }
+  ]
+}
