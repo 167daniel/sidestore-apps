@@ -9,7 +9,7 @@
       "versionDate": "2026-04-22",
       "size": 202298000,
       "downloadURL": "https://github.com/167daniel/sidestore-apps/releases/download/ipa/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Duolingo_logo.svg/512px-Duolingo_logo.svg.png",
+      "iconURL": "https://raw.githubusercontent.com/167daniel/sidestore-apps/main/icon.png",
       "localizedDescription": "Modified Duolingo app"
     }
   ]
